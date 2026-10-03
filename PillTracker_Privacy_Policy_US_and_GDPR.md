@@ -1,6 +1,6 @@
 # PillTracker Privacy Policy
 
-**Effective date:** [Insert the date version 1.5.0 is released]  
+**Effective date:** Upon publish date of App Version 1.4.0 
 **Last updated:** October 2, 2026  
 **Owner and Controller:** Wesley Buchan  
 **App:** PillTracker (PillTracker Go)
@@ -11,7 +11,7 @@ This Privacy Policy explains how PillTracker handles personal information. PillT
 
 PillTracker is designed with a privacy-first approach. We do not sell your medication information. Medication-related information and other details you enter into PillTracker remain on your device and are not transmitted to, stored on, or accessible by us.
 
-Starting with version 1.5.0, PillTracker offers an optional Pro subscription and an optional one-time support purchase, and it shows advertising to users who have not purchased Pro. These features rely on three third-party services: Apple, RevenueCat, and Google AdMob. This policy explains what those services receive and the choices you have.
+Starting with version 1.4.0, PillTracker offers an optional Pro subscription and an optional one-time support purchase, and it shows advertising to users who have not purchased Pro. These features rely on three third-party services: Apple, RevenueCat, and Google AdMob. This policy explains what those services receive and the choices you have.
 
 This policy is intended to address applicable privacy requirements in the United States and the General Data Protection Regulation (EU) 2016/679 ("GDPR") for users in the European Economic Area (EEA), United Kingdom, and Switzerland, where applicable.
 
